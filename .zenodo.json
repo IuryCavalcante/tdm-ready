@@ -1,6 +1,6 @@
 {
   "upload_type": "software",
-  "title": "TDM-READY: checklist de avaliação da prontidão organizacional para adoção do gerenciamento de dívida técnica",
+  "title": "TDM-READY: A Checklist for Assessing Organizational Readiness to Adopt Technical Debt Management",
   "version": "3",
   "language": "por",
   "access_right": "open",
@@ -12,26 +12,16 @@
       "affiliation": "Universidade Federal do Estado do Rio de Janeiro (UNIRIO)"
     }
   ],
-  "description": "<p>O <strong>TDM-READY</strong> é um instrumento de diagnóstico que avalia se uma organização reúne as condições necessárias para adotar o gerenciamento de dívida técnica (GDT). Ele não mede a dívida técnica existente, nem avalia a maturidade de um processo já em operação: seu objeto são as <em>condições anteriores à adoção</em>, aquelas cuja ausência costuma fazer iniciativas de GDT fracassarem antes de produzirem resultado.</p><p>O instrumento é composto por <strong>21 itens</strong>, distribuídos em três dimensões: Pessoas (9 itens), Processos (9 itens) e Tecnologia (3 itens). Cada item enuncia uma condição avaliada, explicita por que ela importa, indica se a condição diz respeito à organização como um todo ou apenas à área de tecnologia, e oferece questões de apoio que orientam a deliberação do grupo. A distribuição de escopo é desigual e deliberada: 13 dos 21 itens avaliam a organização e 8 avaliam a área.</p><p>A aplicação é coletiva e ocupa entre 45 minutos e 1h30, conduzida por um mediador da própria organização, reunindo participantes que cubram os papéis entre os quais o conhecimento sobre as condições está distribuído. Deixar itens sem resposta é uma opção legítima: não conseguir avaliar uma condição já constitui um resultado do diagnóstico.</p><p>Trata-se de um arquivo HTML único e autocontido, que não carrega recursos externos nem faz requisições de rede. As respostas são gravadas exclusivamente no navegador de quem preenche.</p><p>O artefato foi desenvolvido sob a abordagem da <em>Design Science Research</em>, no âmbito de dissertação de mestrado do Programa de Pós-Graduação em Informática (PPGI) da Universidade Federal do Estado do Rio de Janeiro (UNIRIO). A versão 3 incorpora os refinamentos decididos após o estudo de caso conduzido na pesquisa.</p>",
+  "description": "<p><strong>TDM-READY</strong> is a diagnostic instrument that assesses whether an organization meets the conditions required to adopt Technical Debt Management (TDM). It does not measure existing technical debt, nor does it assess the maturity of a process already in operation. Its object is the set of <em>conditions that precede adoption</em> &mdash; those whose absence tends to make TDM initiatives fail before producing any result.</p><p>The instrument comprises <strong>21 items</strong> across three dimensions: People (9 items), Processes (9 items) and Technology (3 items). Each item states the condition being assessed, explains why it matters, indicates whether the condition concerns the organization as a whole or only the technology area, and offers supporting questions that guide the group's deliberation. The distribution of scope is uneven by design: 13 of the 21 items assess the organization and 8 assess the technology area.</p><p>Application is collective and takes between 45 and 90 minutes. It is led by a facilitator from within the organization and brings together participants covering the roles across which knowledge of the conditions is distributed. Leaving items unanswered is a legitimate outcome: being unable to assess a condition is itself a diagnostic result, and usually indicates that the condition is neither clear, visible nor governed within the organization.</p><p>The artifact is a single, self-contained HTML file. It loads no external resources and makes no network requests; responses are stored solely in the browser of the person filling it in. <strong>The instrument's content is written in Brazilian Portuguese.</strong></p><p>TDM-READY was developed under the Design Science Research approach, as part of a master's dissertation at the Graduate Program in Informatics (PPGI) of the Federal University of the State of Rio de Janeiro (UNIRIO). Version 3 incorporates the refinements decided upon after the case study conducted in the research.</p><p>The instrument can be applied directly at <a href=\"https://iurycavalcante.github.io/tdm-ready/\">https://iurycavalcante.github.io/tdm-ready/</a></p>",
   "keywords": [
-    "dívida técnica",
-    "gerenciamento de dívida técnica",
-    "prontidão organizacional",
-    "engenharia de software",
-    "design science research",
     "technical debt",
     "technical debt management",
     "organizational readiness",
+    "readiness assessment",
     "software engineering",
-    "checklist"
+    "design science research",
+    "checklist",
+    "empirical software engineering"
   ],
-  "related_identifiers": [
-    {
-      "identifier": "10.5753/sbqs.2025.14872",
-      "relation": "references",
-      "resource_type": "publication-conferencepaper",
-      "scheme": "doi"
-    }
-  ],
-  "notes": "Artefato produzido no âmbito de dissertação de mestrado do PPGI/UNIRIO. O instrumento pode ser aplicado diretamente em https://iurycavalcante.github.io/tdm-ready/"
+  "notes": "Artifact produced as part of a master's dissertation at PPGI/UNIRIO."
 }
