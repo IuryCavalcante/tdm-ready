@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "Se você utilizar o TDM-READY, por favor cite este artefato conforme os metadados abaixo."
+title: "TDM-READY: checklist de avaliação da prontidão organizacional para adoção do gerenciamento de dívida técnica"
+abstract: >-
+  Instrumento de diagnóstico que avalia se uma organização reúne as condições
+  necessárias para adotar o gerenciamento de dívida técnica. Composto por 21
+  itens distribuídos nas dimensões Pessoas, Processos e Tecnologia, é aplicado
+  em sessão coletiva e deliberativa. Desenvolvido sob a abordagem da Design
+  Science Research no âmbito de dissertação de mestrado do PPGI/UNIRIO.
+type: software
+version: "3"
+date-released: "2026-08-28"
+license: CC-BY-4.0
+repository-code: "https://github.com/IuryCavalcante/tdm-ready"
+url: "https://IuryCavalcante.github.io/tdm-ready/"
+authors:
+  - family-names: "Cavalcante"
+    given-names: "Iury"
+    affiliation: "Universidade Federal do Estado do Rio de Janeiro (UNIRIO)"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  # Confirme se o orientador deve constar como autor do artefato.
+  # - family-names: "Medeiros dos Santos"
+  #   given-names: "Paulo Sergio"
+  #   affiliation: "Universidade Federal do Estado do Rio de Janeiro (UNIRIO)"
+  #   orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - dívida técnica
+  - gerenciamento de dívida técnica
+  - prontidão organizacional
+  - engenharia de software
+  - design science research
+  - technical debt
+  - technical debt management
+  - organizational readiness
+references:
+  - type: conference-paper
+    title: "How Far From the Metaphor? The Diverse Understandings of Technical Debt in GitHub Issues"
+    year: 2025
+    collection-title: "Anais do XXIV Simpósio Brasileiro de Qualidade de Software"
+    doi: "10.5753/sbqs.2025.14872"
+    authors:
+      - family-names: "Cavalcante"
+        given-names: "Iury"
+      - family-names: "Medeiros dos Santos"
+        given-names: "Paulo Sergio"
