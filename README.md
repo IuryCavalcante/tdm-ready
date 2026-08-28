@@ -2,7 +2,7 @@
 
 **Checklist de avaliação da prontidão organizacional para adoção do gerenciamento de dívida técnica.**
 
-Acesse o instrumento em: **https://IuryCavalcante.github.io/tdm-ready/**
+Acesse o instrumento em: **https://iurycavalcante.github.io/tdm-ready/**
 
 ---
 

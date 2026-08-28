@@ -12,7 +12,7 @@ version: "3"
 date-released: "2026-08-28"
 license: CC-BY-4.0
 repository-code: "https://github.com/IuryCavalcante/tdm-ready"
-url: "https://IuryCavalcante.github.io/tdm-ready/"
+url: "https://iurycavalcante.github.io/tdm-ready/"
 authors:
   - family-names: "Cavalcante"
     given-names: "Iury"
