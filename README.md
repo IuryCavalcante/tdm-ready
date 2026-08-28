@@ -2,6 +2,8 @@
 
 **Checklist de avaliação da prontidão organizacional para adoção do gerenciamento de dívida técnica.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22149789.svg)](https://doi.org/10.5281/zenodo.22149789)
+
 Acesse o instrumento em: **https://iurycavalcante.github.io/tdm-ready/**
 
 ---
@@ -60,11 +62,16 @@ A versão 3, publicada neste repositório, incorpora as decisões de refinamento
 
 Se você utilizar o TDM-READY, cite a versão arquivada no Zenodo:
 
-> CAVALCANTE, Iury. *TDM-READY: Technical Debt Management Adoption Readiness Checklist* (version 3). Zenodo, 2026.
+> CAVALCANTE, Iury. *TDM-READY: Technical Debt Management Adoption Readiness Checklist* (version 3). Zenodo, 2026. DOI: [10.5281/zenodo.22149790](https://doi.org/10.5281/zenodo.22149790)
 
 O registro arquivado adota título e descrição em inglês, por ser a língua franca dos repositórios de artefatos de pesquisa. O conteúdo do instrumento permanece em português.
 
-O registro no Zenodo oferece dois identificadores. O **DOI de versão** aponta para a versão 3 exatamente como avaliada, e é o que deve ser citado em trabalhos que se refiram a esta versão. O **DOI de conceito** agrega todas as versões e resolve sempre para a mais recente, sendo preferível quando a referência é ao instrumento em geral.
+O registro no Zenodo oferece dois identificadores:
+
+| Identificador | DOI | Quando usar |
+|---|---|---|
+| Versão 3 | [`10.5281/zenodo.22149790`](https://doi.org/10.5281/zenodo.22149790) | Referência à versão exatamente como avaliada. É o que deve ser citado em trabalhos que se refiram a esta versão. |
+| Todas as versões | [`10.5281/zenodo.22149789`](https://doi.org/10.5281/zenodo.22149789) | Referência ao instrumento em geral. Resolve sempre para a versão mais recente. |
 
 O arquivo [`CITATION.cff`](CITATION.cff) contém os metadados em formato legível por máquina, e é lido tanto pelo GitHub, no botão *Cite this repository*, quanto pelo Zenodo no momento do arquivamento.
 

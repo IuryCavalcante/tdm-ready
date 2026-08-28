@@ -13,6 +13,13 @@ type: software
 version: "3"
 date-released: "2026-08-28"
 license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22149790"
+    description: "DOI da versão 3, arquivada no Zenodo"
+  - type: doi
+    value: "10.5281/zenodo.22149789"
+    description: "DOI de conceito, resolve sempre para a versão mais recente"
 repository-code: "https://github.com/IuryCavalcante/tdm-ready"
 url: "https://iurycavalcante.github.io/tdm-ready/"
 authors:
