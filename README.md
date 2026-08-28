@@ -58,11 +58,13 @@ A versão 3, publicada neste repositório, incorpora as decisões de refinamento
 
 ## Como citar
 
-Se você utilizar o TDM-READY, cite a versão arquivada:
+Se você utilizar o TDM-READY, cite a versão arquivada no Zenodo:
 
-> CAVALCANTE, Iury. *TDM-READY: checklist de avaliação da prontidão organizacional para adoção do gerenciamento de dívida técnica* (versão 3). Zenodo, 2026. DOI: <<DOI>>
+> CAVALCANTE, Iury. *TDM-READY: checklist de avaliação da prontidão organizacional para adoção do gerenciamento de dívida técnica* (versão 3). Zenodo, 2026.
 
-O arquivo [`CITATION.cff`](CITATION.cff) contém os metadados em formato legível por máquina.
+O registro no Zenodo oferece dois identificadores. O **DOI de versão** aponta para a versão 3 exatamente como avaliada, e é o que deve ser citado em trabalhos que se refiram a esta versão. O **DOI de conceito** agrega todas as versões e resolve sempre para a mais recente, sendo preferível quando a referência é ao instrumento em geral.
+
+O arquivo [`CITATION.cff`](CITATION.cff) contém os metadados em formato legível por máquina, e é lido tanto pelo GitHub, no botão *Cite this repository*, quanto pelo Zenodo no momento do arquivamento.
 
 ## Trabalho relacionado
 
