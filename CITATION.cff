@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you use TDM-READY, please cite it using the metadata below."
-title: "TDM-READY: A Checklist for Assessing Organizational Readiness to Adopt Technical Debt Management"
+title: "TDM-READY: Technical Debt Management Adoption Readiness Checklist"
 abstract: >-
-  A diagnostic instrument that assesses whether an organization meets the
-  conditions required to adopt Technical Debt Management. It comprises 21
+  A diagnostic instrument that assesses organizational readiness for adopting
+  Technical Debt Management, that is, whether an organization meets the
+  conditions the adoption requires. It comprises 21
   items across the People, Processes and Technology dimensions, and is
   applied in a collective, deliberative session. Developed under the Design
   Science Research approach as part of a master's dissertation at

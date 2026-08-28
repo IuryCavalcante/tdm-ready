@@ -60,7 +60,7 @@ A versão 3, publicada neste repositório, incorpora as decisões de refinamento
 
 Se você utilizar o TDM-READY, cite a versão arquivada no Zenodo:
 
-> CAVALCANTE, Iury. *TDM-READY: A Checklist for Assessing Organizational Readiness to Adopt Technical Debt Management* (version 3). Zenodo, 2026.
+> CAVALCANTE, Iury. *TDM-READY: Technical Debt Management Adoption Readiness Checklist* (version 3). Zenodo, 2026.
 
 O registro arquivado adota título e descrição em inglês, por ser a língua franca dos repositórios de artefatos de pesquisa. O conteúdo do instrumento permanece em português.
 
